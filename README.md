@@ -13,15 +13,4 @@ LED Output (ready) on pin 8 - code reads config values from A0 and A1 once at st
 Uses the digitalPin fast read/write library
 Uses MsTimer2 library
 
-Version 0.1
-Replaced external hardware with interrupt driven counters
-Version 0.2
-Optimized code
-Version 0.3
-Replaced millis() with interrupt timer
-Version 0.4
-Moved pin assignments
-Version 0.5
-Used function pointer to define routine to use
-
 Steve Hobley 2012 - www.stephenhobley.com
